@@ -1,16 +1,21 @@
-### Hi there 👋
+![Cover image](./images/background.jpg)
 
-<!--
-**Gobindo-Chakraborty/gobindo-chakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm a frontend web developer specializing in HTML, CSS, and JavaScript. Passionate about creating clean, user-friendly designs. Constantly learning and staying up-to-date with the latest technologies. Let's collaborate and build something awesome together!
 
-Here are some ideas to get you started:
+## Skills & Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML5
+* CSS3, SASS, Bootstrap
+* JavaScript, JQuery, React
+* Photoshop, Illustrator
+
+## Connect with me
+
+[<img src="./images/linkedin.png" alt="Linkedin link" width="40">](https://www.linkedin.com/in/gobindo-chakraborty-358905237/)
+
+#### Gmail : gobindochakraborty108@gmail.com
+
+<br> <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gobindo-chakraborty&layout=compact)
