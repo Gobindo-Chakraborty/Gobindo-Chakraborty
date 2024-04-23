@@ -12,7 +12,7 @@ I'm a frontend web developer specializing in HTML, CSS, and JavaScript. Passiona
 
 ## Connect with me
 
-[<img src="./images/linkedin.png" alt="Linkedin link" width="40">](https://www.linkedin.com/in/gobindo-chakraborty-358905237/)
+[<img src="./images/linkedin.png" alt="Linkedin link" width="40">](https://www.linkedin.com/in/gobindo-chakraborty/)
 
 #### Gmail : gobindochakraborty108@gmail.com
 
